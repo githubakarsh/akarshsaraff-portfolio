@@ -1,0 +1,19 @@
+.portfolio-cards {
+    background-color: #cce5ff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-color: #b8daff;
+    border-radius: 15px;
+    color: #004085;
+   
+}
+
+.portfolio-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+
+}
+.portfolio-list li {
+    margin-right: 30px;
+}
