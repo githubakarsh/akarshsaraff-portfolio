@@ -1,0 +1,10 @@
+.skill_gallery_area {
+    box-sizing: border-box;
+}
+
+.prt-img-container {
+    background-color: lightgray;
+    margin: 30px;
+    padding: 15px;
+    width: auto;
+}
